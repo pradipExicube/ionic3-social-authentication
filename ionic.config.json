@@ -1,5 +1,7 @@
 {
   "name": "ionic2socialAuth",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
